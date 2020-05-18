@@ -1,3 +1,5 @@
 Tasks DONE!
-1- As a first task the analysis data was uploded to the project on 13/05/2020.
+1- As a first task the analysis data was uploded to the project on 13/05/2020t
+2- Declustering using two methods of Knopoff and Afteran were implemented on data. For these methods,
+ three different cases of ordinary knopoffWindow, GruenthalWindow, UhrhammerWindow were tested.
 
