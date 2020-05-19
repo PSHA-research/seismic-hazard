@@ -1,0 +1,6 @@
+####### This is a Task manager of HMTK proccess and development #############
+
+1- we were able to code the dclustering method using Aftenan & GardnerKnopoff, we have used Afteran Method with Gruentat Time-Distance window and did the same with GardnerKnopoff but considering three time-distance window including GardnerKnopoff, Uhrhammer and Gruental on 15 may 2020
+
+
+2- we were able to calculate the completion of catalogue on 18 may 2020
